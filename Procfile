@@ -1,1 +1,1 @@
-worker: python3 finance_group_bot.py
+   worker: python3 finance_bot_conversational.py
